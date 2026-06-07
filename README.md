@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28659568/README.md)
 # OrangeBoost SMM
 
 Premium Social Media Marketing (SMM) panel built with **Next.js + Tailwind + Supabase**.
